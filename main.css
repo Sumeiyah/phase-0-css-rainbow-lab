@@ -15,4 +15,21 @@ div {
   /* this selects any elements with the red id */
   border-top-color: #f00;
 }
-
+#orange { 
+   border-top-color: #ffa500;
+}
+#green{
+ border-top-color: #0000ff;
+}
+#blue{
+ border-top-color: #008000;
+}
+#yellow{
+   border-top-color: ;#ffff00;
+}
+#indigo{
+ border-top-color: #4b0082;
+}
+#violet{
+ border-top-color: #ee82ee;
+}
